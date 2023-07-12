@@ -10,11 +10,11 @@ fn add(a: felt252, b: felt252) -> felt252 {
 }
 
 // Edit this function
-fn sub(a: felt252 , b: felt252) -> felt252 {
+fn sub(a: felt252, b: felt252) -> felt252 {
     a - b
 }
 
 fn main() -> felt252 {
-   add(3, 5);
-   sub(11, 7)
+    add(3, 5);
+    sub(11, 7)
 }
